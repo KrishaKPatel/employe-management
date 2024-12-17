@@ -1,0 +1,1 @@
+{"2023-10-18": {"availability": {"11": "morning"}}, "2023-10-17": {"availability": {"11": "both", "12": "morning", "32": "evening"}, "morning_schedule": {"11": {"start": "05:00", "end": "12:00"}, "12": {"start": "07:00", "end": "12:00"}}, "evening_schedule": {"32": {"start": "12:00", "end": "20:00"}}}}
